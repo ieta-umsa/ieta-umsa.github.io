@@ -3,7 +3,7 @@ title: Instituto de Estadística Teórica y Aplicada
 subtitle: Banco de Investigaciones y Datos
 email: ieta.umsa@gmail.com
 description: Proyecto de Interacción Social 2018
-baseurl: "https://ieta-umsa.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ieta-umsa.github.io/" 
 author: Lic. Alvaro Chirino
 street_address: 1234 Somewhere Road
