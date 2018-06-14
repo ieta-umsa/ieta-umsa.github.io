@@ -6,12 +6,12 @@ description: Proyecto de Interacción Social 2018
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ieta-umsa.github.io" 
 author: Lic. Alvaro Chirino
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Cota Cota c/27
+city: La Paz
+state: La Paz
+zip_code: NA
+country: Bolivia
+phone: (+591) 22442100
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -20,13 +20,13 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
+#github_url:
+#gitlab_url: https://gitlab.com/u/andrewbanchich
+#googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+#instagram_url: https://instagram.com
+#linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+#pinterest_url:
+#slack_url:
 twitter_url: https://twitter.com/andrewbanchich
 
 # build settings
