@@ -4,7 +4,6 @@
 ###############
 #library
 library(xlsx)
-library(tidyverse)
 ###############
 rm(list=ls())
 setwd("/Users/iMac6/Desktop/outside/2018/Banco/1udape/htms/CAP01") #capitulo 1
@@ -88,6 +87,8 @@ for(i in 2:dim(bd)[2]){
   }
 }
 #csv
+zz<-"c010101.xls"
 nn<-strsplit(zz,".xls")[[1]]
 nn<-paste0(nn,".csv")
 write.table(dd,nn,sep = ";")
+w
