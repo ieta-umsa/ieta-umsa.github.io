@@ -2,7 +2,7 @@
 layout: post
 title: Revista Varianza
 description: Ciencia estadística en letras
-image: variance.jpg
+image: assets/images/variance.jpg
 ---
 
 | Revista | Portada                                     | Descarga                                            |
